@@ -16,7 +16,7 @@ const Services = () => {
         <section className="third-section">
             <h3>Услуги</h3>
             <div className="services">
-                {services.map(item=><Service service = {item}/>)}
+                {services.map(item=><Service key={item.id} service = {item}/>)}
             </div>
         </section>
     );

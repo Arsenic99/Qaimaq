@@ -118,6 +118,7 @@
         .service {
             position: relative;
             cursor: pointer;
+
             img {
                 width: -webkit-fill-available;
             }
@@ -250,7 +251,7 @@
             display: flex;
             align-items: flex-end;
             margin: 48px;
-            
+
             span {
                 font-family: 'Rubik';
                 font-style: normal;
@@ -325,6 +326,7 @@
         text-align: left;
         padding: 83px 319px;
         margin-top: 100px;
+
         h5 {
             font-family: 'Rubik';
             font-style: normal;
@@ -336,28 +338,30 @@
             margin-bottom: 24px;
         }
 
-        span {
-            font-family: 'Rubik';
-            font-style: normal;
-            font-weight: 400;
-            font-size: 20px;
-            line-height: 110%;
-            text-align: center;
-            color: #2C2C2C;
-            margin-right: 16px;
-            padding: 14px 37px;
-            background-color: #FFFFFF;
-            border-radius: 12px;
-            cursor: pointer;
-        }
+        .request-item {
+            flex-wrap: wrap;
+            max-width: 595px;
+            width: 100%;
 
-        div {
-            margin-bottom: 56px;
+            div {
+                font-family: 'Rubik';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 20px;
+                line-height: 110%;
+                text-align: center;
+                color: #2C2C2C;
+                margin: 0 16px 16px 0;
+                padding: 14px 37px;
+                background-color: #FFFFFF;
+                border-radius: 12px;
+                cursor: pointer;
+            }
         }
 
         .request-active {
-            color: #FFFFFF;
-            background: #00A5E0;
+            color: #FFFFFF !important;
+            background: #00A5E0 !important;
         }
 
         .request-contacts {

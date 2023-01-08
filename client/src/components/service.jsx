@@ -12,7 +12,6 @@ const Service = (props) => {
         }
     return (
         <div className='service' onMouseOver={(e) => hover(e)} onMouseOut={(e) => unhover(e)}>
-            {console.log(props)}
             <h5>{props.service.title}</h5>
             <p>{props.service.subtitle}</p>
             <div className="d-flex justify-content-between">
