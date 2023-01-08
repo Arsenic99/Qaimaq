@@ -9,7 +9,7 @@ import Request from '../../components/request';
 const Main = () => {
     return (
         <>
-            <main>
+            <main id='main'>
                 <FirstPage />
                 <Advertisement />
                 <Services />

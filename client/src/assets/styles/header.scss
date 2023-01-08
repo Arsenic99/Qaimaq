@@ -1,6 +1,7 @@
 @import 'consts.scss';
 
 header {
+    position: relative;
     div {
         nav {
             height: 110px;
@@ -40,6 +41,17 @@ header {
                 line-height: 120%;
                 color: #FFFFFF;
             }
+        }
+    }
+    .scroll{
+        position: fixed;
+        right: 18px;
+        bottom: 23px;
+        z-index: 1;
+        a{
+            padding: 10px 15px;
+            background-color: #FFFFFF;
+            border-radius: 50%;
         }
     }
 }

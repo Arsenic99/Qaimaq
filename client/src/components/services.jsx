@@ -13,7 +13,7 @@ const Services = () => {
         {id:3, title: 'Графический дизайн', subtitle: 'Разработаем фирменный стиль, презентации, рекламные баннеры, шаблоны для постов и многое другое', img: ServiceDesignGray, hoverImg: ServiceDesignGray},
     ]
     return (
-        <section className="third-section">
+        <section className="third-section" id='service'>
             <h3>Услуги</h3>
             <div className="services">
                 {services.map(item=><Service key={item.id} service = {item}/>)}

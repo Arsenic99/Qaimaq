@@ -23,7 +23,7 @@ const Request = () => {
         setActivePrice(e);
     }
     return (
-        <section className="fifth-section">
+        <section className="fifth-section" id="contacts">
             <h3>Оставьте заявку</h3>
             <p>Мы свяжемся с вами, ответим на интересующие вопросы и подготовим коммерческое предложение</p>
             <div className="leave-request">

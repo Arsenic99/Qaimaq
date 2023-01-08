@@ -4,7 +4,7 @@ import WhatWeDid2 from '../assets/images/whatwedid2.png'
 
 const OurProjects = () => {
     return (
-        <section className="forth-section">
+        <section className="forth-section" id='portfolio'>
             <h3>Что мы уже сделали</h3>
             <div>
                 <div className="d-grid whatwedid">
