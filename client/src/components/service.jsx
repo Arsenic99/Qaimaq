@@ -3,7 +3,6 @@ import ServiceArrow from '../assets/images/ServiceArrow.svg'
 import { useState } from "react";
 const Service = (props) => {
     const [webhover, setWebHover] = useState(false)
-    const [service, setService] = useState()
         const hover = (e) => {
             e.stopPropagation();
             setWebHover(true);
