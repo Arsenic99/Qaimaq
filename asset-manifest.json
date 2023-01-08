@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Qaimaq/static/css/main.c1033664.css",
+    "main.js": "/Qaimaq/static/js/main.74987c84.js",
+    "static/media/whatwedid1.png": "/Qaimaq/static/media/whatwedid1.c5ab8c7243017d2964fb.png",
+    "static/media/ServiceWebComputerGray.svg": "/Qaimaq/static/media/ServiceWebComputerGray.7ea7c67995d538b3a000772bb6e8949b.svg",
+    "static/media/whatwedid2.png": "/Qaimaq/static/media/whatwedid2.e86b4074061a05d3ddca.png",
+    "static/media/FirstSectionFooter1.png": "/Qaimaq/static/media/FirstSectionFooter1.cdb0e0177a1d5bb6c2fc.png",
+    "static/media/ServiceWebComputer.png": "/Qaimaq/static/media/ServiceWebComputer.d5e9c72ac83303912e2c.png",
+    "static/media/FirstSectionFooter4.png": "/Qaimaq/static/media/FirstSectionFooter4.5194301ff1b63fe3fd42.png",
+    "static/media/whatwedid.png": "/Qaimaq/static/media/whatwedid.77974da36426a42c908f.png",
+    "static/media/FirstSectionFooter3.png": "/Qaimaq/static/media/FirstSectionFooter3.2a06b7296656e8680015.png",
+    "static/media/FirstSectionFooter2.png": "/Qaimaq/static/media/FirstSectionFooter2.d80142a0cfc30645e7f5.png",
+    "static/media/FirstSectionBackground.png": "/Qaimaq/static/media/FirstSectionBackground.6f4b98d734617c4246d1.png",
+    "static/media/ServiceDesignGray.png": "/Qaimaq/static/media/ServiceDesignGray.42902c8ea32168afe8b2.png",
+    "static/media/ServiceAdv.png": "/Qaimaq/static/media/ServiceAdv.5dd76be673873055ea54.png",
+    "static/media/ServiceAdvGray.png": "/Qaimaq/static/media/ServiceAdvGray.872681e42ff40b3b0ffe.png",
+    "static/media/instagram.svg": "/Qaimaq/static/media/instagram.a40f5e501a7d66564971fcb20eb6adf6.svg",
+    "static/media/whatsapp.svg": "/Qaimaq/static/media/whatsapp.06476ccd9f0686e1e83b903221c29cdf.svg",
+    "static/media/telegram.svg": "/Qaimaq/static/media/telegram.73447c6fb118fc07fd697552d096a38c.svg",
+    "index.html": "/Qaimaq/index.html",
+    "static/media/ServiceArrow.svg": "/Qaimaq/static/media/ServiceArrow.a29db7a29d96a3260021a6dcc9b39ec6.svg",
+    "static/media/ArrowRight.svg": "/Qaimaq/static/media/ArrowRight.1b3314de5ed4701e697bcc5ed5b2358d.svg",
+    "main.c1033664.css.map": "/Qaimaq/static/css/main.c1033664.css.map",
+    "main.74987c84.js.map": "/Qaimaq/static/js/main.74987c84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1033664.css",
+    "static/js/main.74987c84.js"
+  ]
+}
