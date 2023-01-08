@@ -1,0 +1,64 @@
+@import 'consts.scss';
+
+
+footer {
+    margin-top: 100px;
+    div {
+        background-color: $main-color;
+        nav {
+            height: 300px;
+            max-width: 1144px;
+            width: 100%;
+            margin: 0 auto;
+            
+
+            .nav-center {
+                max-width: 421px;
+                width: 100%;
+            }
+
+            .nav-btn-audit {
+                font-family: 'Rubik';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 120%;
+                background-color: #FFFFFF;
+                color: #2C2C2C;
+                padding: 14.5px 24px 14.5px 60px;
+                border-radius: 16px;
+                position: relative;
+            }
+
+            .nav-btn-img {
+                position: absolute;
+                top: 12px;
+                left: 24px;
+            }
+
+            div,
+            a {
+                color: white;
+                cursor: pointer;
+                font-family: 'Rubik', sans-serif;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 18px;
+                line-height: 120%;
+                color: #FFFFFF;
+            }
+            .social-link{
+                cursor: default;
+                img{
+                    cursor: pointer;
+                    margin-top: 20px;
+                    margin-right: 10px;
+                }
+            }
+            .we-in-social{
+                cursor: default;
+                margin-top: 65px;
+            }
+        }
+    }
+}
