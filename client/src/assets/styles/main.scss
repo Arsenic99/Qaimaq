@@ -399,3 +399,26 @@
         }
     }
 }
+
+
+@media screen and (max-width:1440px) {
+    .first-section {
+        .title {
+            font-family: 'Rubik';
+            font-style: normal;
+            font-weight: 800;
+            font-size: 72px;
+            line-height: 105%;
+            text-align: center;
+            color: #FFFFFF;
+            margin: 75px auto 0;
+            max-width: 1315px;
+        }
+
+        .firstsection-img {
+            width: 360px;
+            height: 360px;
+        }
+    }
+
+}
