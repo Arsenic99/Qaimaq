@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Qaimaq/static/css/main.c1033664.css",
-    "main.js": "/Qaimaq/static/js/main.74987c84.js",
+    "main.css": "/Qaimaq/static/css/main.5a9259bd.css",
+    "main.js": "/Qaimaq/static/js/main.fe9c0cf4.js",
     "static/media/whatwedid1.png": "/Qaimaq/static/media/whatwedid1.c5ab8c7243017d2964fb.png",
     "static/media/ServiceWebComputerGray.svg": "/Qaimaq/static/media/ServiceWebComputerGray.7ea7c67995d538b3a000772bb6e8949b.svg",
     "static/media/whatwedid2.png": "/Qaimaq/static/media/whatwedid2.e86b4074061a05d3ddca.png",
@@ -21,11 +21,11 @@
     "index.html": "/Qaimaq/index.html",
     "static/media/ServiceArrow.svg": "/Qaimaq/static/media/ServiceArrow.a29db7a29d96a3260021a6dcc9b39ec6.svg",
     "static/media/ArrowRight.svg": "/Qaimaq/static/media/ArrowRight.1b3314de5ed4701e697bcc5ed5b2358d.svg",
-    "main.c1033664.css.map": "/Qaimaq/static/css/main.c1033664.css.map",
-    "main.74987c84.js.map": "/Qaimaq/static/js/main.74987c84.js.map"
+    "main.5a9259bd.css.map": "/Qaimaq/static/css/main.5a9259bd.css.map",
+    "main.fe9c0cf4.js.map": "/Qaimaq/static/js/main.fe9c0cf4.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1033664.css",
-    "static/js/main.74987c84.js"
+    "static/css/main.5a9259bd.css",
+    "static/js/main.fe9c0cf4.js"
   ]
 }
