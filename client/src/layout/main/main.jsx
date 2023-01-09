@@ -2,9 +2,9 @@ import '../../assets/styles/main.scss'
 import Footer from "../footer/footer";
 import FirstPage from '../../components/firstPage'
 import Advertisement from '../../components/advertisement'
-import Services from '../../components/services';
 import OurProjects from '../../components/whatwedid';
-import Request from '../../components/request';
+import {ServicesContainer} from '../../components/servicesContainer';
+import { RequestContainer } from '../../components/requestContainer';
 
 const Main = () => {
     return (
@@ -12,9 +12,9 @@ const Main = () => {
             <main id='main'>
                 <FirstPage />
                 <Advertisement />
-                <Services />
+                <ServicesContainer />
                 <OurProjects />
-                <Request />
+                <RequestContainer />
             </main>
             <Footer />
         </>

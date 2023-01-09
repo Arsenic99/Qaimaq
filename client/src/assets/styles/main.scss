@@ -404,20 +404,38 @@
 @media screen and (max-width:1440px) {
     .first-section {
         .title {
-            font-family: 'Rubik';
-            font-style: normal;
-            font-weight: 800;
-            font-size: 72px;
-            line-height: 105%;
-            text-align: center;
-            color: #FFFFFF;
+            font-size: calc(24px + (72 - 24) * ((100vw - 320px)/(1440 - 320)));
             margin: 75px auto 0;
-            max-width: 1315px;
+            padding: 0 10px;
         }
-
+        .subtitle {
+            font-size: calc(12px + (24 - 12) * ((100vw - 320px)/(1440 - 320)));
+            padding: 0 10px;
+        }
         .firstsection-img {
-            width: 360px;
-            height: 360px;
+            width: 25vw;
+            height: 25vw;
+        }
+        .firstsection-btn {
+            padding: 26px 72px;
+            border-radius: 30px;
+    
+            .btn-text {
+                font-size: 18px;
+            }
+    
+            img:first-child {
+                position: absolute;
+                top: 21px;
+                left: 32px;
+            }
+    
+            img:last-child {
+                position: absolute;
+                top: 23px;
+                right: 32px;
+            }
+    
         }
     }
 
