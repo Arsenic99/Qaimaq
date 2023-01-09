@@ -24,7 +24,7 @@ const Header = () => {
                             <Link to='#portfolio'>Портфолио</Link>
                         </div>
                         <div>
-                            <Link to='/aboutus'>О нас</Link>
+                            <Link>О нас</Link>
                         </div>
                         <div>
                             <Link to='#contacts'>Контакты</Link>

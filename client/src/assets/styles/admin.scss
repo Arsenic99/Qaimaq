@@ -1,0 +1,37 @@
+@import 'consts.scss';
+
+.admin{
+    background-color: black;
+    input {
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 12px;
+        font-family: 'Rubik';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 110%;
+        text-align: left;
+        color: #FFFFFF;
+        padding: 16px 24px;
+        outline: none;
+        min-width: 252px;
+        border: none;
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    button {
+        font-family: 'Rubik';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 110%;
+        color: #FFFFFF;
+        background: #00A5E0;
+        border-radius: 12px;
+        padding: 18px 24px;
+        width: 100%;
+        border: none;
+        cursor: pointer;
+    }
+}
